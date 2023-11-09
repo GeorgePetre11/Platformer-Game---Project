@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlatformerGame - Project.iml" filepath="$PROJECT_DIR$/PlatformerGame - Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/res/res.iml" filepath="$PROJECT_DIR$/src/res/res.iml" />
+    </modules>
+  </component>
+</project>
